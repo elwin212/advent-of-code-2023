@@ -1,0 +1,1 @@
+G:\Personal_Project\Rust-Proj\AdventofCode2023\d2\part2\target\debug\part2.exe: G:\Personal_Project\Rust-Proj\AdventofCode2023\d2\part2\input.txt G:\Personal_Project\Rust-Proj\AdventofCode2023\d2\part2\src\libs.rs G:\Personal_Project\Rust-Proj\AdventofCode2023\d2\part2\src\main.rs
